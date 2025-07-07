@@ -289,3 +289,11 @@ footer {
     font-size: 20px;
   }
 }
+
+
+.profile-img {
+  max-width: 200px; /* or adjust as needed */
+  height: auto;
+  display: block;
+  margin: 0 auto; /* optional: to center */
+}
